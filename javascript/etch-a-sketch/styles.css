@@ -1,0 +1,9 @@
+.cell{
+    background-color: black;
+    padding:10px;
+    margin:1px;
+}
+
+.cell:hover{
+    background-color:blue;
+}
